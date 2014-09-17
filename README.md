@@ -1,27 +1,25 @@
-# Landscape
+# Sandbox
 
-A brand new default theme for [Hexo].
-
-- [Preview](http://hexo.io/hexo-theme-landscape/)
+A fork of the default theme for [Hexo]
 
 ## Installation
 
 ### Install
 
 ``` bash
-$ git clone https://github.com/hexojs/hexo-theme-landscape.git themes/landscape
+$ git clone https://github.com/shanehyde/hexo-theme-sandbox themes/sandbox
 ```
 
 **Landscape requires Hexo 2.4 and above.**
 
 ### Enable
 
-Modify `theme` setting in `_config.yml` to `landscape`.
+Modify `theme` setting in `_config.yml` to `sandbox`.
 
 ### Update
 
 ``` bash
-cd themes/landscape
+cd themes/sandbox
 git pull
 ```
 
